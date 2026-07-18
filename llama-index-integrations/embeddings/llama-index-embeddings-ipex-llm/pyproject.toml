@@ -45,7 +45,7 @@ xpu = [
     "intel_extension_for_pytorch==2.1.10+xpu",
     "mkl-dpcpp==2024.0.0 ; platform_system == 'Windows'",
     "onednn==2024.0.0 ; platform_system == 'Windows'",
-    "torch==2.1.0a0",
+    "torch==2.13.0",
     "torchvision==0.16.0a0",
 ]
 

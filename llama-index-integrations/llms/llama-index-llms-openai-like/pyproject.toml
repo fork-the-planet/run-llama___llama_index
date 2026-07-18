@@ -38,7 +38,7 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-transformers = ["transformers>=4.37.0,<5"]
+transformers = ["transformers>=4.37.0,<6"]
 
 [tool.codespell]
 check-filenames = true
